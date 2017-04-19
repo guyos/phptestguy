@@ -1,0 +1,8 @@
+{
+  "require": {
+      "php":"7.0.*",
+    "ext-pdo": "*",
+	"ext-pgsql": "*",
+    "ext-pdo_pgsql": "*"
+  }
+}
